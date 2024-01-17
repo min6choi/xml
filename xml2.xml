@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter by Fogliani to Cerisano on 2 June 1753</title>
+            </titleStmt>
+            <!-- licence -->
+            <publicationStmt>
+                <authority/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                        4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- bibliography -->
+                <listBibl>
+                    <bibl type="book"><author><persName><forename>Domenico</forename>
+                                <surname>Bassi</surname></persName></author>, <title>Il p. Antonio
+                            Piaggio e i primi tentativi per lo svolgimento dei papiri ercolanesi (da
+                            documenti inediti)</title>, <title level="j">«Arch. St. Prov.
+                            Nap.»</title>
+                        <biblScope unit="issue">32</biblScope> (<date when="1907">1907</date>),
+                            <biblScope unit="page">667-669</biblScope></bibl>
+                </listBibl>
+                <!-- manuscript -->
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Archivio di Stato di Napoli</institution>
+                        <repository>giugno 1758-54. Affari esteri. Roma 1755</repository>
+                    </msIdentifier>
+                </msDesc>
+                <!-- persons -->
+                <listPerson>
+                    <person xml:id="p_bassi_domenico">
+                        <persName><surname>Bassi</surname>, <forename>Domenico</forename></persName>
+                        <occupation>letterato</occupation>
+                        <occupation>direttore dell'Officina dei papiri ercolanensi</occupation>
+                        <idno type="URI"
+                            >https://www.treccani.it/enciclopedia/domenico-bassi_%28Dizionario-Biografico%29/</idno>
+                        <birth when="1859-01-19"><placeName><name>Varallo Sesia</name>,
+                                    <district>(Vercelli)</district>
+                            </placeName>.</birth>
+                        <death when="1943-03-19"><placeName><name>Bellano</name>,
+                                    <district>(Como)</district>
+                            </placeName>.</death>
+                    </person>
+                </listPerson>
+            </sourceDesc>
+        </fileDesc>
+        <!-- profileDesc -->
+        <profileDesc>
+            <!-- correspondance -->
+            <correspDesc>
+                <!-- sender -->
+                <correspAction type="sent">
+                    <persName xml:id="p_fogliani_sforza_daragona_giovanni">
+                        <forename>Giovanni</forename>
+                        <surname>Fogliani</surname>
+                        <surname>Sforza</surname>
+                        <nameLink>d'</nameLink>
+                        <placeName>Aragona</placeName>
+                    </persName>
+                    <date when="1753-06-02">2 June 1753</date>
+                </correspAction>
+                <!-- recipient -->
+                <correspAction type="received">
+                    <persName xml:id="p_sersale_gerolamo">
+                        <forename>Gerolamo</forename>
+                        <surname>Sersale</surname>
+                        <roleName>duca</roleName>
+                        <nameLink>di</nameLink>
+                        <placeName>Cerisano</placeName>
+                    </persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter" xml:lang="ita">
+                <pb n="667" resp="#p_bassi_domenico"/>
+                    <list type="numbered">
+                        <item n="1"/>Cortile 
+                        <item n="2"/>Scala, e
+                    <figure>
+                        <graphic url="https://github.com/min6choi/xml/raw/main/foto.png?raw=true" />
+                    </figure>                
+                        <item n="3"/>Passetto di legno che conduceva alle 
+                    
+
+                <pb n="668" resp="#p_bassi_domenico"/>
+                    
+                        <item n="4"/>Stanze assegnate a gente di corte in oggi incorporate al <lb/>Museo, ed alla
+                        <item n="5"/>Porta del Museo, poi chiusa nell’ ingrandimento del med. 
+                        <item n="6"/>Tavole da Fabbricatori poste sopra grandi scanni pure da <lb/>Fabbricatori, a modo di menso 
+                        <item n="7"/>Luogo del cartello <emph>si ved</emph><choice>
+                            <abbr>etc</abbr>
+                            <expan>et cetera</expan>
+                            </choice> 
+                        <item n="8"/>Tavole disposto come sopra, o sopra di esse spaselle<note><span style="small-superscript">1)</span></note> di <lb/>Papiri 
+                        <item n="9"/>Luogo assegnatomi per lavorare, e dove si è lavorato per <lb/>molto tempo
+                        <item n="10"/>Armario, dove le cose piú particolari
+                        <item n="11"/>Luogo del Papiro <emph>noli me tangere</emph><choice>
+                            <abbr>etc</abbr>
+                            <expan>et cetera</expan>
+                            </choice>  
+                        <item n="12"/>Porta dol Gabinetto del Re per dove entra nel Museo, detto <lb/>la stanza del Forno A 
+                        <item n="13"/>Finestra corrispond. <span style="small-superscript">te</span> ad una stanza mezzo oscura che al-<lb/>lora si demoliva per ingrandimento del Museo
+                        <item n="14"/>Cassa de’ Papiri 
+                        <item n="15"/>Stanza che in oggi serve per studio del custode 
+                        <item n="16"/>Tavolo di muratori disposte d. dietro ed in oggi ancora <lb/>osistenti 
+                        <item n="17"/>Armario di libri <index indexName="languages"><language>Latini</language>, 
+                            <language>Greci</language>, <language>Francesi</language>, <language>Italiani</language></index> sine lectore
+                        <item n="18"/>Altro consimile per liquori<choice>
+                            <abbr>etc</abbr>
+                            <expan>et cetera</expan>
+                            </choice>. 
+                        <item n="19"/>Luogo dove ancora in oggi si giace il <num type="ordinal" value="1">primo</num> Papiro aperto 
+                        <item n="20"/>Luogo dove ancora in oggi si conserva la cassotta del mer-<lb/>curio. 
+                    </list>
+                    <p>
+                        <lb n="1"/>Ricevuto dal custode ... sulla porta. o per meglio dire sulla fi<hyphen/>
+                        <lb n="2"/>nestra del Museo (<num value="5">5</num>) A, per la prima cosa mi venne in faccia
+                        <lb n="3"/>un cartellone disposto ne più ne meno in quella guisa che si 
+                        <lb n="4"/>affiggono da’ cavadenti gli inviti sopra i banchi de’ loro ceroti 
+                        <lb n="5"/>(<emph>sci</emph>). Stava affisso sul cantone del banco <num value="8">8</num>, al n.º <num value="7">7</num>, che stava
+                        <lb n="6"/>direttamente in vista della porta, o finestra sudetta. Vi ora scritto
+                        <lb n="7"/>a lettere maiuscole cubitali SI VEDE E NON SI TOCCA, ALTRIMENTE
+                        <lb n="8"/>DAL CUSTODE RICEVERANNO AFFRONTO ... Un altro cartello ...
+                        <lb n="9"/>restava alle spalle entrando. Stava attaccato al di dentro della
+                    </p>
+                    <p>
+                        <lb n="10"/><note type="footnote" n="1">’ Spaselle sono una specie di canestre piane ... 
+                            <measure quantity="3" type="length">lunghe palmi 3</measure>, 
+                        <lb n="11"/><measure quantity="2" type="width">larghe <num value="2">due</num></measure> ed alte 
+                        <measure quantity="2/3" type="height"> <num value="2/3">due terzi</num> di palmo</measure> in circa’.</note>
+                    </p>
+                <pb n="669" resp="#p_bassi_domenico"/>
+                    <p>
+                        <lb n="1"/>porta sudetta, non fisso come l’altro, ma sospeso ad un chiodo 
+                        <lb n="2"/>in maniera da potersi levare e mettere. Vi era scritto a lettere
+                        <lb n="3"/>parimente cubitali NON SI PUOL ENTRARE “
+                    </p>
+                <closer>
+                    (fogli 8-9).
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>
